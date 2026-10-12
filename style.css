@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f7f2; }
+header { background: #2e7d32; color: white; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
+.catalog { padding: 24px; display: flex; flex-wrap: wrap; gap: 16px; }
+.catalog h2 { width: 100%; }
+.card { background: white; border-radius: 8px; padding: 12px; width: 220px; box-shadow: 0 2px 6px rgba(0,0,0,.1); }
+.card img { width: 100%; border-radius: 6px; }
+.card button { background: #2e7d32; color: white; border: none; padding: 8px 12px; border-radius: 4px; cursor: pointer; }
