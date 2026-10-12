@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Молоко", "price": 450, "image": "https://placehold.co/300x200" },
+  { "id": 2, "name": "Мёд", "price": 2500, "image": "https://placehold.co/300x200" },
+  { "id": 3, "name": "Мука", "price": 800, "image": "https://placehold.co/300x200" },
+  { "id": 4, "name": "Яйца", "price": 900, "image": "https://placehold.co/300x200" }
+]
